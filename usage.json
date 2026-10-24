@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/rendrix",
+  "packageVersion": "4.4.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/rendrix",
+  "usageRepository": "https://github.com/x12i-sdk/rendrix",
+  "sourceRepository": "https://github.com/x12i/rendrix",
+  "sourceCommit": "41535f6b9266ea6bf3ccc028e0b77b582069751c",
+  "sourcePackageDirectory": ".",
+  "example": {
+    "title": "Render a template from application data",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T13:04:01.027851+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "10cb72bd0f2e47d9bcb85dea5ff1953786a2098a3f7d2555032a6d310fe8d5ca",
+    "manifestSha256": "ca1253cb115b6ac28712fdeb962d6c112b2371ff8872f3c9dd28e4cb153be868"
+  },
+  "npmPackages": [
+    "@x12i/rendrix"
+  ],
+  "publisher": "x12i-publisher[bot]"
+}
