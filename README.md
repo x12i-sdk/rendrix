@@ -19,8 +19,8 @@ npm start
 
 ## When to use the package
 
-- A consumer needs the following capability: Inline variant template rendering with Handlebars and CEL where filters.
-- A Rendrix integration needs to reuse the capabilities of @x12i/rendrix inside a larger application.
+- Render a message template from application data.
+- Use a documented condition filter when choosing content variants.
 
 ## Links
 
